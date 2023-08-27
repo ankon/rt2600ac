@@ -1,0 +1,4 @@
+toolchains/
+ccaches/
+source/node-*/out/
+env/
